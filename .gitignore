@@ -20,5 +20,6 @@ build/
 *.log
 *.swp
 .DS_Store
+.venv
 
 __pycache__
