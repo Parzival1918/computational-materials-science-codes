@@ -24,3 +24,5 @@ pip install -r requirements.txt
 
 - **Chapter 2** - The random-walk model
     - [Random-walk model](/chapter-2/random_walk_model.ipynb) - A simple random-walk model in a square lattice.
+- **Appendices**
+    - [Appendix B](/appendices/appendix_B_2_crystallography.ipynb) - Crystallohraphical calculations.
