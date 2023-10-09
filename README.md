@@ -3,6 +3,7 @@
 <div align="center">
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Parzival1918/computational-materials-science-codes/main)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/parzival1918/computational-materials-science-codes)
 
 </div>
 
